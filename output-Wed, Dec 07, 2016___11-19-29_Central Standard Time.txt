@@ -1,0 +1,10 @@
+
+position:		0	1
+vectorInt:		1	1
+
+You used the addition function.
+You used ints as your data type.
+You entered 2 numbers.
+Your equation was 1 + 1 = ?
+Your result is:	2
+
